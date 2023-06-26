@@ -11,7 +11,7 @@
     "workerThreads": false
   },
   "bugs": {
-    "url": "https://github.com/semantic-release/npm/issues"
+    "url": "https://github.com/virgoone/npm/issues"
   },
   "contributors": [
     "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
